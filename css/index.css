@@ -56,7 +56,7 @@ body {
 	background: #454547;
 	color:#ffffff;
 	box-shadow: 1px 5px 10px -5px black;
-	transition: all 0.3s ease
+	transition: all 0.3s ease;
 }
 .dws-menu li ul{
 	position: absolute;
